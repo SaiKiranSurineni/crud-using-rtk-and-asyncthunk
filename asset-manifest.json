@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crud-using-rtk-and-asyncthunk/static/css/main.6a53fab8.css",
+    "main.js": "/crud-using-rtk-and-asyncthunk/static/js/main.1d54bcbb.js",
+    "index.html": "/crud-using-rtk-and-asyncthunk/index.html",
+    "main.6a53fab8.css.map": "/crud-using-rtk-and-asyncthunk/static/css/main.6a53fab8.css.map",
+    "main.1d54bcbb.js.map": "/crud-using-rtk-and-asyncthunk/static/js/main.1d54bcbb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a53fab8.css",
+    "static/js/main.1d54bcbb.js"
+  ]
+}
